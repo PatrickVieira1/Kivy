@@ -8,7 +8,7 @@ from kivy.properties import NumericProperty, ObjectProperty
 from kivy.core.window import Window
 
 #Window.clearcolor = (1, 1, 1, 1)
-
+#Testando aqui um comentário novo
 class MainWidget(BoxLayout):
 	pass
 
